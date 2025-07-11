@@ -1,2 +1,0 @@
-# Guillermo
-Personal website

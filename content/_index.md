@@ -1,20 +1,16 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
-action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
-image_left: true
+title: Guillermo Orjuela Ramirez, PhD
+subtitle: Researcher on innovation and environment
+description: I am an economist and researcher on innovation an environment at The Alliance Bioversity International & CIAT, where I have been since September 2022. My research focus on the development and adoption of green innovations and their impact on the environment. I have expertice in quantitative and qualitative methods and text analysis using machine learning techniques. My research focus on the development and adoption of green innovations and their impact on the environment. I have expertice in quantitative and qualitative methods and text analysis using machine learning techniques.
 images:
-- img/profile.png
+  - img/profile.png
+image_left: false
+text_align_left: true
 show_action_link: true
 show_social_links: true
-subtitle: Researcher on innovation studies and environment
-text_align_left: false
-title: Guillermo Orjuela Ramirez
+action_label: About me &rarr;
+action_link: /about
+action_type: text
 type: home
 ---
 
