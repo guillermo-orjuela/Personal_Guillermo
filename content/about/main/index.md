@@ -34,7 +34,7 @@ intro: |
   Universidad del Tolima.
   
   ## Academic Awards
-  - Cum Laude distinction for PhD Thesis from Pontificia Universidad Javeriana and Universitat Autònoma de Barcelona (2024).
+  - Cum Laude distinction for PhD Thesis (2024).
   - PhD Thesis Laureate by Pontificia Universidad Javeriana, Cali (2024).
   - Doctorate scholarship granted by the departmental government of Tolima, Colombia (2017).
 
